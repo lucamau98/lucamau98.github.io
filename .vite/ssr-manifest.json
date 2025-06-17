@@ -7,11 +7,11 @@
   "\u0000vite/preload-helper.js": [],
   "../../../../../assets/WhatsApp.svg": [],
   "../../../../../assets/profile.webp": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "../../../../../assets/videos/hero-background.mp4": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "index.html": [],
@@ -39,11 +39,11 @@
   "node_modules/vue-gtag/dist/vue-gtag.js": [],
   "node_modules/vue-router/dist/vue-router.mjs": [],
   "node_modules/vue3-carousel/dist/carousel.css": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "node_modules/vue3-carousel/dist/carousel.es.js": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "node_modules/vue3-lazyload/dist/index.mjs": [],
@@ -54,43 +54,43 @@
   "src/components/common/CookieConsent.vue": [],
   "src/components/common/CookieConsent.vue?vue&type=style&index=0&scoped=8f9da674&lang.scss": [],
   "src/components/home/AboutMe.vue": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/AboutMe.vue?vue&type=style&index=0&scoped=5eec65a7&lang.scss": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/ContactCta.vue": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/ContactCta.vue?vue&type=style&index=0&scoped=b61ba619&lang.scss": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/HeroSection.vue": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/HeroSection.vue?vue&type=style&index=0&scoped=37b99b23&lang.scss": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/ServicesPreview.vue": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/ServicesPreview.vue?vue&type=style&index=0&scoped=bd0dc794&lang.scss": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/TestimonialsPreview.vue": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/home/TestimonialsPreview.vue?vue&type=style&index=0&scoped=dbbec580&lang.scss": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/components/layout/Footer.vue": [],
@@ -98,7 +98,7 @@
   "src/components/layout/Navbar.vue": [],
   "src/components/layout/Navbar.vue?vue&type=style&index=0&scoped=f73af358&lang.scss": [],
   "src/data/projects.json": [
-    "/assets/Gallery-KOkWzQyt.js",
+    "/assets/Gallery-C3OfuLXk.js",
     "/assets/Gallery-CXgAJFUA.css"
   ],
   "src/data/services.json": [
@@ -112,71 +112,71 @@
   "src/stores/useLoaderStore.js": [],
   "src/style.scss": [],
   "src/views/Contact.vue": [
-    "/assets/Contact-BfIz7jK_.js",
+    "/assets/Contact-BAs5BORU.js",
     "/assets/Contact-BkFNN3bc.css"
   ],
   "src/views/Contact.vue?vue&type=style&index=0&scoped=bec88f94&lang.scss": [
-    "/assets/Contact-BfIz7jK_.js",
+    "/assets/Contact-BAs5BORU.js",
     "/assets/Contact-BkFNN3bc.css"
   ],
   "src/views/CookiePolicy.vue": [
-    "/assets/CookiePolicy-BCvQhJQ3.js",
+    "/assets/CookiePolicy-D3OXs-Gb.js",
     "/assets/CookiePolicy-o3JllJPW.css"
   ],
   "src/views/CookiePolicy.vue?vue&type=style&index=0&scoped=598564ac&lang.scss": [
-    "/assets/CookiePolicy-BCvQhJQ3.js",
+    "/assets/CookiePolicy-D3OXs-Gb.js",
     "/assets/CookiePolicy-o3JllJPW.css"
   ],
   "src/views/Gallery.vue": [
-    "/assets/Gallery-KOkWzQyt.js",
+    "/assets/Gallery-C3OfuLXk.js",
     "/assets/Gallery-CXgAJFUA.css"
   ],
   "src/views/Gallery.vue?vue&type=style&index=0&scoped=b547e419&lang.css": [
-    "/assets/Gallery-KOkWzQyt.js",
+    "/assets/Gallery-C3OfuLXk.js",
     "/assets/Gallery-CXgAJFUA.css"
   ],
   "src/views/Home.vue": [
-    "/assets/Home-CxCkCYzj.js",
+    "/assets/Home-Dl0H4MHh.js",
     "/assets/Home-BBWDf4A4.css"
   ],
   "src/views/MailSuccess.vue": [
-    "/assets/MailSuccess-Drr7fwb2.js",
+    "/assets/MailSuccess-Cx7IZs7f.js",
     "/assets/MailSuccess-DdBCU4hF.css"
   ],
   "src/views/MailSuccess.vue?vue&type=style&index=0&scoped=a8f569a8&lang.scss": [
-    "/assets/MailSuccess-Drr7fwb2.js",
+    "/assets/MailSuccess-Cx7IZs7f.js",
     "/assets/MailSuccess-DdBCU4hF.css"
   ],
   "src/views/NotFound.vue": [
-    "/assets/NotFound-Cil8fDOe.js",
+    "/assets/NotFound-BAyjluKj.js",
     "/assets/NotFound-BE2lSufj.css"
   ],
   "src/views/NotFound.vue?vue&type=style&index=0&scoped=3d616742&lang.scss": [
-    "/assets/NotFound-Cil8fDOe.js",
+    "/assets/NotFound-BAyjluKj.js",
     "/assets/NotFound-BE2lSufj.css"
   ],
   "src/views/PrivacyPolicy.vue": [
-    "/assets/PrivacyPolicy--JGZb1Mt.js",
+    "/assets/PrivacyPolicy-Brxrpky2.js",
     "/assets/PrivacyPolicy-B5ahHPwG.css"
   ],
   "src/views/PrivacyPolicy.vue?vue&type=style&index=0&scoped=23c66891&lang.scss": [
-    "/assets/PrivacyPolicy--JGZb1Mt.js",
+    "/assets/PrivacyPolicy-Brxrpky2.js",
     "/assets/PrivacyPolicy-B5ahHPwG.css"
   ],
   "src/views/Services.vue": [
-    "/assets/Services-DfftyYl8.js",
+    "/assets/Services-ibsquMOm.js",
     "/assets/Services-DH78J9qY.css"
   ],
   "src/views/Services.vue?vue&type=style&index=0&scoped=76323f22&lang.scss": [
-    "/assets/Services-DfftyYl8.js",
+    "/assets/Services-ibsquMOm.js",
     "/assets/Services-DH78J9qY.css"
   ],
   "src/views/Testimonials.vue": [
-    "/assets/Testimonials-Qn8Yd-Kz.js",
+    "/assets/Testimonials-CNTjH8eL.js",
     "/assets/Testimonials-DQOLMZ7B.css"
   ],
   "src/views/Testimonials.vue?vue&type=style&index=0&scoped=e61c1134&lang.scss": [
-    "/assets/Testimonials-Qn8Yd-Kz.js",
+    "/assets/Testimonials-CNTjH8eL.js",
     "/assets/Testimonials-DQOLMZ7B.css"
   ]
 }
